@@ -1,0 +1,302 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raja.com" resolutions="1x" timestamp="1629083924267">
+  <folder name="css">
+    <file name="site_global.css" crc="130595444"/>
+    <file name="master_a-master.css" crc="179304411" ref="index:faq:pricing-table:recent-projects:all-projects:services:word-from-md:about:contact:portfolio"/>
+    <file name="index.css" crc="72975803" ref="index"/>
+    <file name="faq.css" crc="3899685726" ref="faq"/>
+    <file name="pricing-table.css" crc="3888799687" ref="pricing-table"/>
+    <file name="recent-projects.css" crc="80445567" ref="recent-projects"/>
+    <file name="all-projects.css" crc="494443419" ref="all-projects"/>
+    <file name="services.css" crc="3833796140" ref="services"/>
+    <file name="word-from-md.css" crc="4271750369" ref="word-from-md"/>
+    <file name="about.css" crc="3882774971" ref="about"/>
+    <file name="contact.css" crc="294162822" ref="contact"/>
+    <file name="portfolio.css" crc="268139966" ref="portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="museutils.js" crc="3939489907" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:word-from-md:about:contact:recent-projects"/>
+    <file name="webpro.js" crc="3856315280" ref="index:faq:about:contact:portfolio:all-projects"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about:portfolio:all-projects"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about:portfolio:all-projects"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about:portfolio:all-projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="require.js" crc="4177726516" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="faq:portfolio:all-projects"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u1317.php" crc="178523736" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u5021-4.png" crc="481066543" ref="index:pricing-table:word-from-md:faq:about:services:contact:portfolio:all-projects:recent-projects"/>
+    <file name="kk.jpg" crc="212632365" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210801125404.jpg" crc="304712501" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raja.jpg" crc="281010026" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ravfgfffvfggja-u4977-fr.jpg" crc="472025747" ref="index"/>
+    <file name="ravfgfffjjjjvfggja.jpg" crc="196035646" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ravfgfffjjjjkkkkvfggja-u4999-fr.jpg" crc="254373971" ref="index"/>
+    <file name="5d03aa8e6fc9201bc7002b43.jpg" crc="87605966" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpngglobe.gif" crc="4259601477" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rajendra.jpg" crc="401002159" ref="word-from-md">
+      <caption webpage="word-from-md" alt=""/>
+    </file>
+    <file name="unnramed.jpg" crc="123444775" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="office.jpg" crc="148038333" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="facebook.png" crc="213666866" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3967485730" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="raja-advertising-bulandshahr-0jw7jmcklp.jpg" crc="4138603143" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="outmed.jpg" crc="3906698213" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="camera.png" crc="4004048970" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="browser.png" crc="4159012677" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="chart.png" crc="75318741" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="case.png" crc="260028362" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="connect.png" crc="131516025" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="members.png" crc="4171594523" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="favpng_call-centre-customer-service-armenia-call-center-telephone-call.png" crc="3916875887" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4190483979" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3891565948" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="3292x213.jpg" crc="4117407080" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="6.jpg" crc="527524728" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="5303x207.jpg" crc="3952123180" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="4292x218.jpg" crc="4045372044" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:all-projects"/>
+    <file name="3.jpg" crc="536638668" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="5.jpg" crc="346564151" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="4.jpg" crc="394806446" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio:all-projects"/>
+    <file name="a1292x217.jpg" crc="48836868" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a2292x223.jpg" crc="4158057660" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a3292x219.jpg" crc="3867064878" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4292x214.jpg" crc="236949124" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a5332x207.jpg" crc="420770628" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a6292x212.jpg" crc="3772868176" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a1.jpg" crc="159690900" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="a2.jpg" crc="4118034220" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="a3.jpg" crc="388747857" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="a4.jpg" crc="56962455" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="a5.jpg" crc="12674487" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="a6.jpg" crc="178500289" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="d1292x219.jpg" crc="192707116" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d2304x207.jpg" crc="175789737" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d3325x207.jpg" crc="3880466285" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d4338x207.jpg" crc="500349446" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d5-crop-u5625.jpg" crc="81237809" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d6-crop-u5645.jpg" crc="459409372" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d1.jpg" crc="4000046566" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d2.jpg" crc="172135146" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d3.jpg" crc="254273292" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="d4.jpg" crc="3841794889" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d5.jpg" crc="4106141337" seo="true" ref="portfolio:all-projects">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="d6.jpg" crc="4167196353" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="d3445x283.jpg" crc="4260085167" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="d5-crop-u7041.jpg" crc="321108120" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="ravfgfffjjjjkkkkvfggja.jpg" crc="208104709" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="1b472x283.jpg" crc="130911424" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="ravfgfffvfggja.jpg" crc="76972438" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="1b.jpg" crc="288919654" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="lklk.jpg" crc="3937921814" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="acc-cement-limited-logo-tagline-1280x720-1-1504x283.jpg" crc="3798330817" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="airtel-1-1598937294504x283.jpg" crc="449814594" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="brand_295504x283.jpg" crc="320168655" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="download.jpg" crc="125954052" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="konark-logo.jpg" crc="4134461811" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="acc-cement-limited-logo-tagline-1280x720-1-1.jpg" crc="529941905" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="airtel-1-1598937294.jpg" crc="412375118" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="brand_295.jpg" crc="381416336" seo="true" ref="all-projects">
+      <caption webpage="all-projects" alt=""/>
+    </file>
+    <file name="1b-u6515-fr.jpg" crc="4104339432" ref="recent-projects"/>
+    <file name="2b.jpg" crc="3794715346" ref="recent-projects">
+      <caption webpage="recent-projects" alt=""/>
+    </file>
+    <file name="3b.jpg" crc="4121450335" ref="recent-projects">
+      <caption webpage="recent-projects" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="203035526" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="pricing-table.html" crc="428215555" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="word-from-md.html" crc="4060619854" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="faq.html" crc="3772877349" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="about.html" crc="3758683138" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="services.html" crc="4138181879" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="contact.html" crc="4104901280" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="portfolio.html" crc="373677114" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="all-projects.html" crc="205251965" seo="true" mt="1629083673976" redirect="true"/>
+  <file name="recent-projects.html" crc="69861816" seo="true" mt="1629083673976" redirect="true"/>
+</manifest>
